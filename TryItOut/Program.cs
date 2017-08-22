@@ -41,16 +41,43 @@ namespace TryItOut
             //b = 1 + 2;
             //Console.WriteLine(b);
 
-            int a = 1;
-            int b = a + 4;
-            int c = a - b;
-            Console.WriteLine(b);
+            //int a = 1;
+            //int b = a + 4;
+            //int c = a - b;
+            //Console.WriteLine(b);
 
-            //Remember, this is the same as 18%
+            //Remember, this is the same as 18% $4.0572
             float totalCost = 22.54f;
             float tipPercent = .18f;
             float tipAmount = totalCost * tipPercent;
             Console.WriteLine(tipAmount);
+
+            //Note that you DO NOT put commas in the number, C# won't know what to do with it.
+            double moneyMadeFromGame = 100000;
+            double totalProgrammers = 4;
+            double moneyPerPerson = moneyMadeFromGame / totalProgrammers; //We're rich!
+            Console.WriteLine(moneyPerPerson);
+
+            //The formula for the area of a circle is pi * r ^ 2
+            //float radius = 4;
+            //float pi = 3.1415926536f;
+            //float area = pi * radius * radius;
+
+            ////Using the + operator with strings in "concatenation".
+            //Console.WriteLine("The area of the circle is " + area + "."); 
+
+            //The formula for the area of a triangle is 1.5 * b * h 
+            //int b = 5;
+            //int h = 6;
+            //double area = 1/2d * b * h;
+            //Console.WriteLine("The area of the triangle is " + area);
+
+            //The formula for the area of a triangle is 1.5 * b * h 
+            double b = 1.5d;
+            int h = 4;
+            double area = 1 / 2d * b * h;
+            Console.WriteLine("The area of the triangle is " + area);
+
         }
     }
 }

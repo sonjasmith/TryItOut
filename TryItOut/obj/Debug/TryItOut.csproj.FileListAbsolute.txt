@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryItOut\TryItOut\bin\Debug\TryItOut.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryItOut\TryItOut\bin\Debug\TryItOut.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryItOut\TryItOut\bin\Debug\TryItOut.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryItOut\TryItOut\obj\Debug\TryItOut.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryItOut\TryItOut\obj\Debug\TryItOut.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TryItOut\TryItOut\obj\Debug\TryItOut.pdb
